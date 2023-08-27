@@ -1,2 +1,4 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=14FA182A_002D4A9E_002D3F78_002DA869_002D14AFF25F5634_002Fdl_003ASource_003A_002E_002E_003F_002E_002E_003FSource_002Fd_003ABeginnerCourse_002Ff_003AMyCharacter_002Eh/@EntryIndexedValue">ExplicitlyExcluded</s:String></wpf:ResourceDictionary>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=14FA182A_002D4A9E_002D3F78_002DA869_002D14AFF25F5634_002Fdl_003ASource_003A_002E_002E_003F_002E_002E_003FSource_002Fd_003ABeginnerCourse_002Ff_003AMyCharacter_002Eh/@EntryIndexedValue">ExplicitlyExcluded</s:String>
+	<s:String x:Key="/Default/Environment/Hierarchy/Build/BuildTool/CustomBuildToolPath/@EntryValue">C:\Program Files\JetBrains\JetBrains Rider 2023.1.2\tools\MSBuild\Current\Bin\amd64\MSBuild.exe</s:String>
+	</wpf:ResourceDictionary>
