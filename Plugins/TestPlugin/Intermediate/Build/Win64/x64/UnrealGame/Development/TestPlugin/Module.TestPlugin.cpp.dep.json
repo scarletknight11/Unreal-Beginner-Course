@@ -1,0 +1,20 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal_bu\\beginnercourse-5.21\\plugins\\testplugin\\intermediate\\build\\win64\\x64\\unrealgame\\development\\testplugin\\module.testplugin.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal_bu\\beginnercourse-5.21\\intermediate\\build\\win64\\x64\\beginnercourse\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "d:\\unreal_bu\\beginnercourse-5.21\\plugins\\testplugin\\intermediate\\build\\win64\\x64\\unrealgame\\development\\testplugin\\definitions.testplugin.h",
+            "d:\\unreal_bu\\beginnercourse-5.21\\plugins\\testplugin\\intermediate\\build\\win64\\unrealgame\\inc\\testplugin\\uht\\ourplugininterface.gen.cpp",
+            "d:\\unreal_bu\\beginnercourse-5.21\\plugins\\testplugin\\source\\testplugin\\public\\ourplugininterface.h",
+            "d:\\unreal_bu\\beginnercourse-5.21\\plugins\\testplugin\\intermediate\\build\\win64\\unrealgame\\inc\\testplugin\\uht\\ourplugininterface.generated.h",
+            "d:\\unreal_bu\\beginnercourse-5.21\\plugins\\testplugin\\intermediate\\build\\win64\\unrealgame\\inc\\testplugin\\uht\\testplugin.init.gen.cpp",
+            "d:\\unreal_bu\\beginnercourse-5.21\\plugins\\testplugin\\source\\testplugin\\private\\ourplugininterface.cpp",
+            "d:\\unreal_bu\\beginnercourse-5.21\\plugins\\testplugin\\source\\testplugin\\private\\testplugin.cpp",
+            "d:\\unreal_bu\\beginnercourse-5.21\\plugins\\testplugin\\source\\testplugin\\public\\testplugin.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

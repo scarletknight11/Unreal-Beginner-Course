@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.TPL_Plugin.cpp.obj": [
+			"TPL_Plugin.cpp.obj"
+		]
+	}
+}

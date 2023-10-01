@@ -8,7 +8,7 @@ public class BeginnerCourse : ModuleRules
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	
-		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "HeadMountedDisplay", "Http", "Json", "JsonUtilities", "Sockets", "WebSockets", "Networking" , "EnhancedInput" });
+		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "HeadMountedDisplay", "Http", "Json", "JsonUtilities", "Sockets", "WebSockets", "Networking" , "EnhancedInput", "TestPlugin" });
 
 		PrivateDependencyModuleNames.AddRange(new string[] { "Json", "JsonUtilities" });
 

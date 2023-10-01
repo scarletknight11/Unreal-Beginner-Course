@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  TestClass.cpp
+  TestThirdPartyLibrary.cpp
+  TestThirdPartyLibrary.vcxproj -> D:\unreal_bu\BegineerCourse-5.3\Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\x64\Release\TestThirdPartyLibrary.lib

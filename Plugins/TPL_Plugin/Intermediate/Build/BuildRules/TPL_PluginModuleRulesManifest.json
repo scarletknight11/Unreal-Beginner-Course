@@ -1,0 +1,7 @@
+{
+	"SourceFiles": [
+		"D:\\unreal_bu\\BegineerCourse-5.3\\Plugins\\TPL_Plugin\\Source\\TPL_Plugin\\TPL_Plugin.Build.cs",
+		"D:\\unreal_bu\\BegineerCourse-5.3\\Plugins\\TPL_Plugin\\Source\\ThirdParty\\TPL_PluginLibrary\\TPL_PluginLibrary.Build.cs"
+	],
+	"EngineVersion": "5.3.0"
+}
