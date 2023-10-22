@@ -1,0 +1,7 @@
+{
+	"SourceFiles": [
+		"D:\\unreal_bu\\BegineerCourse-5.3\\Plugins\\DLL_Test\\Source\\DLL_Test\\DLL_Test.Build.cs",
+		"D:\\unreal_bu\\BegineerCourse-5.3\\Plugins\\DLL_Test\\Source\\ThirdParty\\DLL_TestLibrary\\DLL_TestLibrary.Build.cs"
+	],
+	"EngineVersion": "5.3.1"
+}

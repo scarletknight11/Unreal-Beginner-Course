@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\github\\unreal-beginner-course\\plugins\\testplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\testplugin\\uht\\testplugin.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\github\\unreal-beginner-course\\intermediate\\build\\win64\\x64\\beginnercourseeditor\\development\\engine\\sharedpch.engine.cpp17.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "d:\\github\\unreal-beginner-course\\plugins\\testplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\testplugin\\definitions.testplugin.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

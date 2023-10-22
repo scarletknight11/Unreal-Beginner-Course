@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-DLL_TEST-0003.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Github\Unreal-Beginner-Course\Intermediate\Build\Win64\x64\BeginnerCourseEditor\Development\Core\SharedPCH.Core.Cpp17.InclOrderUnreal5_1.h.obj"
+"D:\Github\Unreal-Beginner-Course\Plugins\DLL_TEST\Intermediate\Build\Win64\x64\UnrealEditor\Development\DLL_TEST\Module.DLL_TEST.cpp.obj"
+"D:\Github\Unreal-Beginner-Course\Plugins\DLL_TEST\Intermediate\Build\Win64\x64\UnrealEditor\Development\DLL_TEST\Default.rc2.res"
+/OUT:"D:\Github\Unreal-Beginner-Course\Plugins\DLL_TEST\Intermediate\Build\Win64\x64\UnrealEditor\Development\DLL_TEST\UnrealEditor-DLL_TEST-0003.lib"

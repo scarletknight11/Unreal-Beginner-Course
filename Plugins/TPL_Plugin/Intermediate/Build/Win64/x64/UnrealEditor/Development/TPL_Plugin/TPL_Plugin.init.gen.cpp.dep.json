@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\github\\unreal-beginner-course\\plugins\\tpl_plugin\\intermediate\\build\\win64\\unrealeditor\\inc\\tpl_plugin\\uht\\tpl_plugin.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\github\\unreal-beginner-course\\intermediate\\build\\win64\\x64\\beginnercourseeditor\\development\\coreuobject\\sharedpch.coreuobject.cpp17.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "d:\\github\\unreal-beginner-course\\plugins\\tpl_plugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\tpl_plugin\\definitions.tpl_plugin.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

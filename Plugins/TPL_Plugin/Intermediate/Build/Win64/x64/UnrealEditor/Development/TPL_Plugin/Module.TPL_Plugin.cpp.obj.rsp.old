@@ -1,11 +1,11 @@
-"D:\unreal_bu\BegineerCourse-5.3\Plugins\TPL_Plugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\TPL_Plugin\Module.TPL_Plugin.cpp"
-/FI"D:\unreal_bu\BegineerCourse-5.3\Intermediate\Build\Win64\x64\BeginnerCourseEditor\Development\Core\SharedPCH.Core.Cpp17.InclOrderUnreal5_1.h"
-/FI"D:\unreal_bu\BegineerCourse-5.3\Plugins\TPL_Plugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\TPL_Plugin\Definitions.TPL_Plugin.h"
-/Yu"D:\unreal_bu\BegineerCourse-5.3\Intermediate\Build\Win64\x64\BeginnerCourseEditor\Development\Core\SharedPCH.Core.Cpp17.InclOrderUnreal5_1.h"
-/Fp"D:\unreal_bu\BegineerCourse-5.3\Intermediate\Build\Win64\x64\BeginnerCourseEditor\Development\Core\SharedPCH.Core.Cpp17.InclOrderUnreal5_1.h.pch"
-/Fo"D:\unreal_bu\BegineerCourse-5.3\Plugins\TPL_Plugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\TPL_Plugin\Module.TPL_Plugin.cpp.obj"
-/sourceDependencies "D:\unreal_bu\BegineerCourse-5.3\Plugins\TPL_Plugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\TPL_Plugin\Module.TPL_Plugin.cpp.dep.json"
-@"D:\unreal_bu\BegineerCourse-5.3\Plugins\TPL_Plugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\TPL_Plugin\TPL_Plugin.Shared.rsp"
+"D:\Github\Unreal-Beginner-Course\Plugins\TPL_Plugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\TPL_Plugin\Module.TPL_Plugin.cpp"
+/FI"D:\Github\Unreal-Beginner-Course\Intermediate\Build\Win64\x64\BeginnerCourseEditor\Development\CoreUObject\SharedPCH.CoreUObject.Cpp17.InclOrderUnreal5_1.h"
+/FI"D:\Github\Unreal-Beginner-Course\Plugins\TPL_Plugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\TPL_Plugin\Definitions.TPL_Plugin.h"
+/Yu"D:\Github\Unreal-Beginner-Course\Intermediate\Build\Win64\x64\BeginnerCourseEditor\Development\CoreUObject\SharedPCH.CoreUObject.Cpp17.InclOrderUnreal5_1.h"
+/Fp"D:\Github\Unreal-Beginner-Course\Intermediate\Build\Win64\x64\BeginnerCourseEditor\Development\CoreUObject\SharedPCH.CoreUObject.Cpp17.InclOrderUnreal5_1.h.pch"
+/Fo"D:\Github\Unreal-Beginner-Course\Plugins\TPL_Plugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\TPL_Plugin\Module.TPL_Plugin.cpp.obj"
+/sourceDependencies "D:\Github\Unreal-Beginner-Course\Plugins\TPL_Plugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\TPL_Plugin\Module.TPL_Plugin.cpp.dep.json"
+@"D:\Github\Unreal-Beginner-Course\Plugins\TPL_Plugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\TPL_Plugin\TPL_Plugin.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi

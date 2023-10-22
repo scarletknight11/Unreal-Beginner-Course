@@ -35,8 +35,8 @@
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN:6
 /NATVIS:"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\RenderCore\RenderCore.natvis"
-"D:\unreal_bu\BegineerCourse-5.3\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\Development\RiderShaderInfo\Module.RiderShaderInfo.cpp.obj"
-"D:\unreal_bu\BegineerCourse-5.3\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\Development\RiderShaderInfo\Default.rc2.res"
+"D:\Github\Unreal-Beginner-Course\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\Development\RiderShaderInfo\Module.RiderShaderInfo.cpp.obj"
+"D:\Github\Unreal-Beginner-Course\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\Development\RiderShaderInfo\Default.rc2.res"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Core\UnrealEditor-Core.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Projects\UnrealEditor-Projects.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\RenderCore\UnrealEditor-RenderCore.lib"
@@ -65,7 +65,7 @@
 "synchronization.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"D:\unreal_bu\BegineerCourse-5.3\Plugins\Developer\RiderLink\Binaries\Win64\UnrealEditor-RiderShaderInfo-0001.dll"
-/IMPLIB:"D:\unreal_bu\BegineerCourse-5.3\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\Development\RiderShaderInfo\UnrealEditor-RiderShaderInfo-0001.sup.lib"
-/PDB:"D:\unreal_bu\BegineerCourse-5.3\Plugins\Developer\RiderLink\Binaries\Win64\UnrealEditor-RiderShaderInfo-0001.pdb"
+/OUT:"D:\Github\Unreal-Beginner-Course\Plugins\Developer\RiderLink\Binaries\Win64\UnrealEditor-RiderShaderInfo-0001.dll"
+/IMPLIB:"D:\Github\Unreal-Beginner-Course\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\Development\RiderShaderInfo\UnrealEditor-RiderShaderInfo-0001.sup.lib"
+/PDB:"D:\Github\Unreal-Beginner-Course\Plugins\Developer\RiderLink\Binaries\Win64\UnrealEditor-RiderShaderInfo-0001.pdb"
 /ignore:4078

@@ -6,7 +6,9 @@
 /NAME:"UnrealEditor-TPL_Plugin-0006.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"D:\unreal_bu\BegineerCourse-5.3\Intermediate\Build\Win64\x64\BeginnerCourseEditor\Development\CoreUObject\SharedPCH.CoreUObject.Cpp17.InclOrderUnreal5_1.h.obj"
-"D:\unreal_bu\BegineerCourse-5.3\Plugins\TPL_Plugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\TPL_Plugin\Module.TPL_Plugin.cpp.obj"
-"D:\unreal_bu\BegineerCourse-5.3\Plugins\TPL_Plugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\TPL_Plugin\Default.rc2.res"
-/OUT:"D:\unreal_bu\BegineerCourse-5.3\Plugins\TPL_Plugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\TPL_Plugin\UnrealEditor-TPL_Plugin-0006.lib"
+"D:\Github\Unreal-Beginner-Course\Intermediate\Build\Win64\x64\BeginnerCourseEditor\Development\CoreUObject\SharedPCH.CoreUObject.Cpp17.InclOrderUnreal5_1.h.obj"
+"D:\Github\Unreal-Beginner-Course\Plugins\TPL_Plugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\TPL_Plugin\Module.TPL_Plugin.cpp.obj"
+"D:\Github\Unreal-Beginner-Course\Plugins\TPL_Plugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\TPL_Plugin\TPL_Plugin.init.gen.cpp.obj"
+"D:\Github\Unreal-Beginner-Course\Plugins\TPL_Plugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\TPL_Plugin\WrapperObject.gen.cpp.obj"
+"D:\Github\Unreal-Beginner-Course\Plugins\TPL_Plugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\TPL_Plugin\Default.rc2.res"
+/OUT:"D:\Github\Unreal-Beginner-Course\Plugins\TPL_Plugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\TPL_Plugin\UnrealEditor-TPL_Plugin-0006.lib"

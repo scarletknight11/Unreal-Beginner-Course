@@ -1,0 +1,28 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal_bu\\begineercourse-5.3\\plugins\\dll_test\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dll_test\\module.dll_test.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal_bu\\begineercourse-5.3\\intermediate\\build\\win64\\x64\\beginnercourseeditor\\development\\core\\sharedpch.core.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal_bu\\begineercourse-5.3\\plugins\\dll_test\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dll_test\\definitions.dll_test.h",
+            "d:\\unreal_bu\\begineercourse-5.3\\plugins\\dll_test\\source\\dll_test\\private\\dll_test.cpp",
+            "d:\\unreal_bu\\begineercourse-5.3\\plugins\\dll_test\\source\\dll_test\\public\\dll_test.h",
+            "d:\\ue_5.3\\engine\\source\\runtime\\projects\\public\\interfaces\\ipluginmanager.h",
+            "d:\\ue_5.3\\engine\\source\\runtime\\projects\\public\\plugindescriptor.h",
+            "d:\\ue_5.3\\engine\\source\\runtime\\projects\\public\\custombuildsteps.h",
+            "d:\\ue_5.3\\engine\\source\\runtime\\json\\public\\serialization\\jsonwriter.h",
+            "d:\\ue_5.3\\engine\\source\\runtime\\json\\public\\serialization\\jsontypes.h",
+            "d:\\ue_5.3\\engine\\source\\runtime\\json\\public\\policies\\prettyjsonprintpolicy.h",
+            "d:\\ue_5.3\\engine\\source\\runtime\\json\\public\\policies\\jsonprintpolicy.h",
+            "d:\\ue_5.3\\engine\\source\\runtime\\projects\\public\\localizationdescriptor.h",
+            "d:\\ue_5.3\\engine\\source\\runtime\\projects\\public\\moduledescriptor.h",
+            "d:\\ue_5.3\\engine\\source\\runtime\\projects\\public\\pluginreferencedescriptor.h",
+            "d:\\ue_5.3\\engine\\source\\runtime\\projects\\public\\versescope.h",
+            "d:\\ue_5.3\\engine\\source\\runtime\\core\\public\\containers\\versepathfwd.h",
+            "d:\\unreal_bu\\begineercourse-5.3\\plugins\\dll_test\\source\\thirdparty\\dll_testlibrary\\public\\dll_testlibrary\\examplelibrary.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

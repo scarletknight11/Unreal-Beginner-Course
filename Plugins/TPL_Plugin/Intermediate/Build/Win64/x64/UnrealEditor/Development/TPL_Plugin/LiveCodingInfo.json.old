@@ -2,7 +2,10 @@
 	"RemapUnityFiles": 
 	{
 		"Module.TPL_Plugin.cpp.obj": [
-			"TPL_Plugin.cpp.obj"
+			"TPL_Plugin.cpp.obj",
+			"WrapperObject.cpp.obj",
+			"TPL_Plugin.init.gen.cpp.obj",
+			"WrapperObject.gen.cpp.obj"
 		]
 	}
 }
