@@ -1,16 +1,18 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "d:\\github\\unreal-beginner-course\\plugins\\testplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\testplugin\\module.testplugin.cpp",
+        "Source": "d:\\unreal_bu\\begineercourse-5.3\\plugins\\testplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\testplugin\\module.testplugin.cpp",
         "ProvidedModule": "",
-        "PCH": "d:\\github\\unreal-beginner-course\\intermediate\\build\\win64\\x64\\beginnercourseeditor\\development\\engine\\sharedpch.engine.cpp17.inclorderunreal5_1.h.pch",
+        "PCH": "d:\\unreal_bu\\begineercourse-5.3\\intermediate\\build\\win64\\x64\\beginnercourseeditor\\development\\engine\\sharedpch.engine.cpp17.inclorderunreal5_1.h.pch",
         "Includes": [
-            "d:\\github\\unreal-beginner-course\\plugins\\testplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\testplugin\\definitions.testplugin.h",
-            "d:\\github\\unreal-beginner-course\\plugins\\testplugin\\source\\testplugin\\private\\ourplugininterface.cpp",
-            "d:\\github\\unreal-beginner-course\\plugins\\testplugin\\source\\testplugin\\public\\ourplugininterface.h",
-            "d:\\github\\unreal-beginner-course\\plugins\\testplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\testplugin\\uht\\ourplugininterface.generated.h",
-            "d:\\github\\unreal-beginner-course\\plugins\\testplugin\\source\\testplugin\\private\\testplugin.cpp",
-            "d:\\github\\unreal-beginner-course\\plugins\\testplugin\\source\\testplugin\\public\\testplugin.h"
+            "d:\\unreal_bu\\begineercourse-5.3\\plugins\\testplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\testplugin\\definitions.testplugin.h",
+            "d:\\unreal_bu\\begineercourse-5.3\\plugins\\testplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\testplugin\\uht\\ourplugininterface.gen.cpp",
+            "d:\\unreal_bu\\begineercourse-5.3\\plugins\\testplugin\\source\\testplugin\\public\\ourplugininterface.h",
+            "d:\\unreal_bu\\begineercourse-5.3\\plugins\\testplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\testplugin\\uht\\ourplugininterface.generated.h",
+            "d:\\unreal_bu\\begineercourse-5.3\\plugins\\testplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\testplugin\\uht\\testplugin.init.gen.cpp",
+            "d:\\unreal_bu\\begineercourse-5.3\\plugins\\testplugin\\source\\testplugin\\private\\ourplugininterface.cpp",
+            "d:\\unreal_bu\\begineercourse-5.3\\plugins\\testplugin\\source\\testplugin\\private\\testplugin.cpp",
+            "d:\\unreal_bu\\begineercourse-5.3\\plugins\\testplugin\\source\\testplugin\\public\\testplugin.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

@@ -1,14 +1,6 @@
-#if defined _WIN32 || defined _WIN64
-    #include <Windows.h>
+#include <Windows.h>
+#define EXAMPLELIBRARY_EXPORT __declspec(dllexport)
 
-    #define EXAMPLELIBRARY_EXPORT __declspec(dllexport)
-#else
-    #include <stdio.h>
-#endif
-
-#ifndef EXAMPLELIBRARY_EXPORT
-    #define EXAMPLELIBRARY_EXPORT
-#endif
 
 EXAMPLELIBRARY_EXPORT void ExampleLibraryFunction()
 {
@@ -17,4 +9,9 @@ EXAMPLELIBRARY_EXPORT void ExampleLibraryFunction()
 #else
     printf("Loaded ExampleLibrary from Third Party Plugin sample");
 #endif
+}
+
+int TESTCLASS::GetNum()
+{
+	return num;
 }

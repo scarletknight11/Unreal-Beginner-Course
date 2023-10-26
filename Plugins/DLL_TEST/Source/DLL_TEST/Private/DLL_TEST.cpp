@@ -31,12 +31,11 @@ void FDLL_TestModule::StartupModule()
 
 	if (ExampleLibraryHandle)
 	{
-		// Call the test function in the third party library that opens a message box
-		ExampleLibraryFunction();
+
 	}
 	else
 	{
-		FMessageDialog::Open(EAppMsgType::Ok, LOCTEXT("ThirdPartyLibraryError", "Failed to load example third party library"));
+
 	}
 }
 

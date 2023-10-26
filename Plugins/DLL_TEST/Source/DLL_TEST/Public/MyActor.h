@@ -4,7 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
-#include "DLL_TESTLibrary/ExampleLibrary.h"
+#include "DLL_TestLibrary/ExampleLibrary.h"
 #include "Kismet/KismetSystemLibrary.h"
 #include "MyActor.generated.h"
 
@@ -28,6 +28,6 @@ public:
 		void RunDLLFunction()
 	{
 		TESTCLASS obj;
-		UKismetSystemLibrary::PrintString(this,FString::FromInt(obj.GetNum()));
+		UKismetSystemLibrary::PrintString(this, FString::FromInt(obj.GetNum()));
 	}
 };

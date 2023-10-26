@@ -26,6 +26,8 @@ public class DLL_Test : ModuleRules
 			new string[]
 			{
 				"Core",
+                "Engine",
+                "CoreUObject",
 				"DLL_TestLibrary",
 				"Projects"
 				// ... add other public dependencies that you statically link with here ...

@@ -1,11 +1,11 @@
-"D:\Github\Unreal-Beginner-Course\Plugins\DLL_TEST\Intermediate\Build\Win64\x64\UnrealEditor\Development\DLL_TEST\Module.DLL_TEST.cpp"
-/FI"D:\Github\Unreal-Beginner-Course\Intermediate\Build\Win64\x64\BeginnerCourseEditor\Development\Core\SharedPCH.Core.Cpp17.InclOrderUnreal5_1.h"
-/FI"D:\Github\Unreal-Beginner-Course\Plugins\DLL_TEST\Intermediate\Build\Win64\x64\UnrealEditor\Development\DLL_TEST\Definitions.DLL_TEST.h"
-/Yu"D:\Github\Unreal-Beginner-Course\Intermediate\Build\Win64\x64\BeginnerCourseEditor\Development\Core\SharedPCH.Core.Cpp17.InclOrderUnreal5_1.h"
-/Fp"D:\Github\Unreal-Beginner-Course\Intermediate\Build\Win64\x64\BeginnerCourseEditor\Development\Core\SharedPCH.Core.Cpp17.InclOrderUnreal5_1.h.pch"
-/Fo"D:\Github\Unreal-Beginner-Course\Plugins\DLL_TEST\Intermediate\Build\Win64\x64\UnrealEditor\Development\DLL_TEST\Module.DLL_TEST.cpp.obj"
-/sourceDependencies "D:\Github\Unreal-Beginner-Course\Plugins\DLL_TEST\Intermediate\Build\Win64\x64\UnrealEditor\Development\DLL_TEST\Module.DLL_TEST.cpp.dep.json"
-@"D:\Github\Unreal-Beginner-Course\Plugins\DLL_TEST\Intermediate\Build\Win64\x64\UnrealEditor\Development\DLL_TEST\DLL_TEST.Shared.rsp"
+"D:\unreal_bu\BegineerCourse-5.3\Plugins\DLL_Test\Intermediate\Build\Win64\x64\UnrealEditor\Development\DLL_Test\Module.DLL_Test.cpp"
+/FI"D:\unreal_bu\BegineerCourse-5.3\Intermediate\Build\Win64\x64\BeginnerCourseEditor\Development\Core\SharedPCH.Core.Cpp17.InclOrderUnreal5_1.h"
+/FI"D:\unreal_bu\BegineerCourse-5.3\Plugins\DLL_Test\Intermediate\Build\Win64\x64\UnrealEditor\Development\DLL_Test\Definitions.DLL_Test.h"
+/Yu"D:\unreal_bu\BegineerCourse-5.3\Intermediate\Build\Win64\x64\BeginnerCourseEditor\Development\Core\SharedPCH.Core.Cpp17.InclOrderUnreal5_1.h"
+/Fp"D:\unreal_bu\BegineerCourse-5.3\Intermediate\Build\Win64\x64\BeginnerCourseEditor\Development\Core\SharedPCH.Core.Cpp17.InclOrderUnreal5_1.h.pch"
+/Fo"D:\unreal_bu\BegineerCourse-5.3\Plugins\DLL_Test\Intermediate\Build\Win64\x64\UnrealEditor\Development\DLL_Test\Module.DLL_Test.cpp.obj"
+/sourceDependencies "D:\unreal_bu\BegineerCourse-5.3\Plugins\DLL_Test\Intermediate\Build\Win64\x64\UnrealEditor\Development\DLL_Test\Module.DLL_Test.cpp.dep.json"
+@"D:\unreal_bu\BegineerCourse-5.3\Plugins\DLL_Test\Intermediate\Build\Win64\x64\UnrealEditor\Development\DLL_Test\DLL_Test.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi

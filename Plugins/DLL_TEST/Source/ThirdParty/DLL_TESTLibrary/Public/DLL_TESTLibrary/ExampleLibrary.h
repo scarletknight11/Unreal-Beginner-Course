@@ -1,9 +1,15 @@
-#if defined _WIN32 || defined _WIN64
+#pragma once
 #define EXAMPLELIBRARY_IMPORT __declspec(dllimport)
-#elif defined __linux__
-#define EXAMPLELIBRARY_IMPORT __attribute__((visibility("default")))
-#else
-#define EXAMPLELIBRARY_IMPORT
-#endif
+#define EXAMPLELIBRARY_EXPORT __declspec(dllexport)
 
 EXAMPLELIBRARY_IMPORT void ExampleLibraryFunction();
+
+class EXAMPLELIBRARY_EXPORT TESTCLASS 
+{
+private:
+	int num;
+public:
+	int GetNum();
+	TESTCLASS() { num = rand() % 100; }
+};
+

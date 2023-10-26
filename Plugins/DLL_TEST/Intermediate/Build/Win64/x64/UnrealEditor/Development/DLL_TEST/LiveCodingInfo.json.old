@@ -1,8 +1,8 @@
 {
 	"RemapUnityFiles": 
 	{
-		"Module.DLL_TEST.cpp.obj": [
-			"DLL_TEST.cpp.obj"
+		"Module.DLL_Test.cpp.obj": [
+			"DLL_Test.cpp.obj"
 		]
 	}
 }
