@@ -1,4 +1,4 @@
-#include "D:/unreal_bu/BegineerCourse-5.3/Intermediate/Build/Win64/x64/BeginnerCourseEditor/Development/Core/SharedDefinitions.Core.Cpp17.InclOrderUnreal5_1.h"
+#include "D:/unreal_bu/BegineerCourse-5.3/Intermediate/Build/Win64/x64/BeginnerCourseEditor/Development/Engine/SharedDefinitions.Engine.Cpp17.InclOrderUnreal5_1.h"
 #undef UE_IS_ENGINE_MODULE
 #undef DEPRECATED_FORGAME
 #define DEPRECATED_FORGAME DEPRECATED
@@ -22,7 +22,3 @@
 #define DEPRECATED_FORGAME DEPRECATED
 #define UE_DEPRECATED_FORGAME UE_DEPRECATED
 #define DLL_TEST_API DLLEXPORT
-#define READ_TARGET_ENABLED_PLUGINS_FROM_RECEIPT 1
-#define LOAD_PLUGINS_FOR_TARGET_PLATFORMS 1
-#define PROJECTS_API DLLIMPORT
-#define JSON_API DLLIMPORT

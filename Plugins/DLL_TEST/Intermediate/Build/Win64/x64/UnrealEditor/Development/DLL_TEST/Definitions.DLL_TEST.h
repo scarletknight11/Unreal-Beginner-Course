@@ -1,4 +1,4 @@
-#include "D:/unreal_bu/BegineerCourse-5.3/Intermediate/Build/Win64/x64/BeginnerCourseEditor/Development/Engine/SharedDefinitions.Engine.Cpp17.InclOrderUnreal5_1.h"
+#include "D:/Github/Unreal-Beginner-Course/Intermediate/Build/Win64/x64/BeginnerCourseEditor/Development/Engine/SharedDefinitions.Engine.Cpp17.InclOrderUnreal5_1.h"
 #undef UE_IS_ENGINE_MODULE
 #undef DEPRECATED_FORGAME
 #define DEPRECATED_FORGAME DEPRECATED
@@ -16,7 +16,7 @@
 #define UE_PROJECT_NAME BeginnerCourse
 #define UE_TARGET_NAME BeginnerCourseEditor
 #define UE_MODULE_NAME "DLL_Test"
-#define UE_PLUGIN_NAME "DLL_Test"
+#define UE_PLUGIN_NAME "DLL_TEST"
 #define IMPLEMENT_ENCRYPTION_KEY_REGISTRATION() 
 #define IMPLEMENT_SIGNING_KEY_REGISTRATION() 
 #define DEPRECATED_FORGAME DEPRECATED
