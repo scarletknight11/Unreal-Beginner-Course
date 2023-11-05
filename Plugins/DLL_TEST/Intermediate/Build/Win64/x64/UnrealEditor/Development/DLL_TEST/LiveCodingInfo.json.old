@@ -2,7 +2,10 @@
 	"RemapUnityFiles": 
 	{
 		"Module.DLL_Test.cpp.obj": [
-			"DLL_Test.cpp.obj"
+			"MyActor.cpp.obj",
+			"DLL_Test.init.gen.cpp.obj",
+			"MyActor.gen.cpp.obj",
+			"DLL_TEST.cpp.obj"
 		]
 	}
 }

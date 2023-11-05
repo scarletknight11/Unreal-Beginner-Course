@@ -1,4 +1,4 @@
-#include "D:/Github/Unreal-Beginner-Course/Intermediate/Build/Win64/x64/BeginnerCourseEditor/Development/Engine/SharedDefinitions.Engine.Cpp17.InclOrderUnreal5_1.h"
+#include "D:/Github/Unreal-Beginner-Course/Intermediate/Build/Win64/x64/BeginnerCourseEditor/Development/UnrealEd/SharedDefinitions.UnrealEd.Cpp17.InclOrderUnreal5_1.h"
 #undef UE_IS_ENGINE_MODULE
 #undef DEPRECATED_FORGAME
 #define DEPRECATED_FORGAME DEPRECATED

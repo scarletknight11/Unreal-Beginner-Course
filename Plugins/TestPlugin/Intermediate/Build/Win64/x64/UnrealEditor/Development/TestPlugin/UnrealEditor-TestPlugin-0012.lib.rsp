@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TestPlugin-0012.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Github\Unreal-Beginner-Course\Intermediate\Build\Win64\x64\BeginnerCourseEditor\Development\Engine\SharedPCH.Engine.Cpp17.InclOrderUnreal5_1.h.obj"
+"D:\Github\Unreal-Beginner-Course\Plugins\TestPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\TestPlugin\Module.TestPlugin.cpp.obj"
+"D:\Github\Unreal-Beginner-Course\Plugins\TestPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\TestPlugin\OurPluginInterface.gen.cpp.obj"
+"D:\Github\Unreal-Beginner-Course\Plugins\TestPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\TestPlugin\TestPlugin.init.gen.cpp.obj"
+"D:\Github\Unreal-Beginner-Course\Plugins\TestPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\TestPlugin\Default.rc2.res"
+/OUT:"D:\Github\Unreal-Beginner-Course\Plugins\TestPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\TestPlugin\UnrealEditor-TestPlugin-0012.lib"

@@ -29,7 +29,10 @@ public class DLL_Test : ModuleRules
                 "Engine",
                 "CoreUObject",
 				"DLL_TestLibrary",
-				"Projects"
+				"Projects",
+				"GameplayTasks", 
+				"NavigationSystem",
+				"UMG"
 				// ... add other public dependencies that you statically link with here ...
 			}
 			);

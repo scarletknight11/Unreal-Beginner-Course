@@ -2,10 +2,10 @@
 	"RemapUnityFiles": 
 	{
 		"Module.TestPlugin.cpp.obj": [
-			"OurPluginInterface.gen.cpp.obj",
-			"TestPlugin.init.gen.cpp.obj",
 			"OurPluginInterface.cpp.obj",
-			"TestPlugin.cpp.obj"
+			"TestPlugin.cpp.obj",
+			"OurPluginInterface.gen.cpp.obj",
+			"TestPlugin.init.gen.cpp.obj"
 		]
 	}
 }

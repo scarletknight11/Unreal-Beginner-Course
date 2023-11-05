@@ -13,5 +13,5 @@ EXAMPLELIBRARY_EXPORT void ExampleLibraryFunction()
 
 int TESTCLASS::GetNum()
 {
-	return num;
+ 	return num;
 }

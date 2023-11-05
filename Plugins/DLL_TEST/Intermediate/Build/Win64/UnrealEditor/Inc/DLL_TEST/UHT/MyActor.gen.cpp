@@ -5,7 +5,7 @@
 ===========================================================================*/
 
 #include "UObject/GeneratedCppIncludes.h"
-#include "DLL_Test/Public/MyActor.h"
+#include "DLL_TEST/Public/MyActor.h"
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 void EmptyLinkFunctionForGeneratedCodeMyActor() {}
 // Cross Module References
@@ -113,15 +113,15 @@ void EmptyLinkFunctionForGeneratedCodeMyActor() {}
 	}
 	DEFINE_VTABLE_PTR_HELPER_CTOR(AMyActor);
 	AMyActor::~AMyActor() {}
-	struct Z_CompiledInDeferFile_FID_unreal_bu_BegineerCourse_5_3_Plugins_DLL_Test_Source_DLL_Test_Public_MyActor_h_Statics
+	struct Z_CompiledInDeferFile_FID_Github_Unreal_Beginner_Course_Plugins_DLL_TEST_Source_DLL_TEST_Public_MyActor_h_Statics
 	{
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
-	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_unreal_bu_BegineerCourse_5_3_Plugins_DLL_Test_Source_DLL_Test_Public_MyActor_h_Statics::ClassInfo[] = {
+	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Github_Unreal_Beginner_Course_Plugins_DLL_TEST_Source_DLL_TEST_Public_MyActor_h_Statics::ClassInfo[] = {
 		{ Z_Construct_UClass_AMyActor, AMyActor::StaticClass, TEXT("AMyActor"), &Z_Registration_Info_UClass_AMyActor, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AMyActor), 2002890730U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_unreal_bu_BegineerCourse_5_3_Plugins_DLL_Test_Source_DLL_Test_Public_MyActor_h_3489296291(TEXT("/Script/DLL_Test"),
-		Z_CompiledInDeferFile_FID_unreal_bu_BegineerCourse_5_3_Plugins_DLL_Test_Source_DLL_Test_Public_MyActor_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_unreal_bu_BegineerCourse_5_3_Plugins_DLL_Test_Source_DLL_Test_Public_MyActor_h_Statics::ClassInfo),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Github_Unreal_Beginner_Course_Plugins_DLL_TEST_Source_DLL_TEST_Public_MyActor_h_3489296291(TEXT("/Script/DLL_Test"),
+		Z_CompiledInDeferFile_FID_Github_Unreal_Beginner_Course_Plugins_DLL_TEST_Source_DLL_TEST_Public_MyActor_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Github_Unreal_Beginner_Course_Plugins_DLL_TEST_Source_DLL_TEST_Public_MyActor_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

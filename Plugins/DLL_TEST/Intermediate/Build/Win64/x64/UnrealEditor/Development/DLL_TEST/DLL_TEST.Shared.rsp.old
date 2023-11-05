@@ -1,5 +1,6 @@
 /I "."
 /I "D:\unreal_bu\BegineerCourse-5.3\Plugins\DLL_Test\Source\DLL_Test\Private"
+/I "D:\unreal_bu\BegineerCourse-5.3\Plugins\DLL_Test\Intermediate\Build\Win64\UnrealEditor\Inc\DLL_Test\UHT"
 /I "D:\unreal_bu\BegineerCourse-5.3\Plugins\DLL_Test\Source"
 /I "D:\unreal_bu\BegineerCourse-5.3\Plugins\DLL_Test\Source\DLL_Test\Public"
 /I "Runtime\Core\Public"

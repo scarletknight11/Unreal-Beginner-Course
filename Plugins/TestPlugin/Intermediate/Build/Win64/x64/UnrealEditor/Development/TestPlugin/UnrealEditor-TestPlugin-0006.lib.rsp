@@ -6,7 +6,9 @@
 /NAME:"UnrealEditor-TestPlugin-0006.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"D:\unreal_bu\BegineerCourse-5.3\Intermediate\Build\Win64\x64\BeginnerCourseEditor\Development\Engine\SharedPCH.Engine.Cpp17.InclOrderUnreal5_1.h.obj"
-"D:\unreal_bu\BegineerCourse-5.3\Plugins\TestPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\TestPlugin\Module.TestPlugin.cpp.obj"
-"D:\unreal_bu\BegineerCourse-5.3\Plugins\TestPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\TestPlugin\Default.rc2.res"
-/OUT:"D:\unreal_bu\BegineerCourse-5.3\Plugins\TestPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\TestPlugin\UnrealEditor-TestPlugin-0006.lib"
+"D:\Github\Unreal-Beginner-Course\Intermediate\Build\Win64\x64\BeginnerCourseEditor\Development\Engine\SharedPCH.Engine.Cpp17.InclOrderUnreal5_1.h.obj"
+"D:\Github\Unreal-Beginner-Course\Plugins\TestPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\TestPlugin\Module.TestPlugin.cpp.obj"
+"D:\Github\Unreal-Beginner-Course\Plugins\TestPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\TestPlugin\OurPluginInterface.gen.cpp.obj"
+"D:\Github\Unreal-Beginner-Course\Plugins\TestPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\TestPlugin\TestPlugin.init.gen.cpp.obj"
+"D:\Github\Unreal-Beginner-Course\Plugins\TestPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\TestPlugin\Default.rc2.res"
+/OUT:"D:\Github\Unreal-Beginner-Course\Plugins\TestPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\TestPlugin\UnrealEditor-TestPlugin-0006.lib"

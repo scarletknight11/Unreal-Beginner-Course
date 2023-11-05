@@ -5,8 +5,8 @@
 #include "Modules/ModuleManager.h"
 #include "Interfaces/IPluginManager.h"
 #include "Misc/Paths.h"
-#include "HAL/PlatformProcess.h"
 #include "DLL_TestLibrary/ExampleLibrary.h"
+#include "HAL/PlatformProcess.h"
 
 #define LOCTEXT_NAMESPACE "FDLL_TestModule"
 
@@ -20,23 +20,23 @@ void FDLL_TestModule::StartupModule()
 	// Add on the relative location of the third party dll and load it
 	FString LibraryPath;
 #if PLATFORM_WINDOWS
-	LibraryPath = FPaths::Combine(*BaseDir, TEXT("Binaries/ThirdParty/DLL_TestLibrary/Win64/ExampleLibrary.dll"));
+ 	LibraryPath = FPaths::Combine(*BaseDir, TEXT("Binaries/ThirdParty/DLL_TestLibrary/Win64/ExampleLibrary.dll"));
 #elif PLATFORM_MAC
-    LibraryPath = FPaths::Combine(*BaseDir, TEXT("Source/ThirdParty/DLL_TestLibrary/Mac/Release/libExampleLibrary.dylib"));
+     LibraryPath = FPaths::Combine(*BaseDir, TEXT("Source/ThirdParty/DLL_TestLibrary/Mac/Release/libExampleLibrary.dylib"));
 #elif PLATFORM_LINUX
-	LibraryPath = FPaths::Combine(*BaseDir, TEXT("Binaries/ThirdParty/DLL_TestLibrary/Linux/x86_64-unknown-linux-gnu/libExampleLibrary.so"));
+ 	LibraryPath = FPaths::Combine(*BaseDir, TEXT("Binaries/ThirdParty/DLL_TestLibrary/Linux/x86_64-unknown-linux-gnu/libExampleLibrary.so"));
 #endif // PLATFORM_WINDOWS
 
 	ExampleLibraryHandle = !LibraryPath.IsEmpty() ? FPlatformProcess::GetDllHandle(*LibraryPath) : nullptr;
 
-	if (ExampleLibraryHandle)
-	{
-
-	}
-	else
-	{
-
-	}
+	// if (ExampleLibraryHandle)
+	// {
+	//
+	// }
+	// else
+	// {
+	//
+	// }
 }
 
 void FDLL_TestModule::ShutdownModule()

@@ -25,7 +25,7 @@ public:
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 	UFUNCTION(BlueprintCallable)
-		void RunDLLFunction()
+	void RunDLLFunction()
 	{
 		TESTCLASS obj;
 		UKismetSystemLibrary::PrintString(this, FString::FromInt(obj.GetNum()));

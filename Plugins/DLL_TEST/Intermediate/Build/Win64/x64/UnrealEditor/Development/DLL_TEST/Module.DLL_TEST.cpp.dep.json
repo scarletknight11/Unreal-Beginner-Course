@@ -1,22 +1,21 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "d:\\unreal_bu\\begineercourse-5.3\\plugins\\dll_test\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dll_test\\module.dll_test.cpp",
+        "Source": "d:\\github\\unreal-beginner-course\\plugins\\dll_test\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dll_test\\module.dll_test.cpp",
         "ProvidedModule": "",
-        "PCH": "d:\\unreal_bu\\begineercourse-5.3\\intermediate\\build\\win64\\x64\\beginnercourseeditor\\development\\engine\\sharedpch.engine.cpp17.inclorderunreal5_1.h.pch",
+        "PCH": "d:\\github\\unreal-beginner-course\\intermediate\\build\\win64\\x64\\beginnercourseeditor\\development\\unrealed\\sharedpch.unrealed.cpp17.inclorderunreal5_1.h.pch",
         "Includes": [
-            "d:\\unreal_bu\\begineercourse-5.3\\plugins\\dll_test\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dll_test\\definitions.dll_test.h",
-            "d:\\unreal_bu\\begineercourse-5.3\\plugins\\dll_test\\intermediate\\build\\win64\\unrealeditor\\inc\\dll_test\\uht\\dll_test.init.gen.cpp",
-            "d:\\unreal_bu\\begineercourse-5.3\\plugins\\dll_test\\intermediate\\build\\win64\\unrealeditor\\inc\\dll_test\\uht\\myactor.gen.cpp",
-            "d:\\unreal_bu\\begineercourse-5.3\\plugins\\dll_test\\source\\dll_test\\public\\myactor.h",
-            "d:\\unreal_bu\\begineercourse-5.3\\plugins\\dll_test\\source\\thirdparty\\dll_testlibrary\\public\\dll_testlibrary\\examplelibrary.h",
+            "d:\\github\\unreal-beginner-course\\plugins\\dll_test\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dll_test\\definitions.dll_test.h",
+            "d:\\github\\unreal-beginner-course\\plugins\\dll_test\\intermediate\\build\\win64\\unrealeditor\\inc\\dll_test\\uht\\dll_test.init.gen.cpp",
+            "d:\\github\\unreal-beginner-course\\plugins\\dll_test\\intermediate\\build\\win64\\unrealeditor\\inc\\dll_test\\uht\\myactor.gen.cpp",
+            "d:\\github\\unreal-beginner-course\\plugins\\dll_test\\source\\dll_test\\public\\myactor.h",
+            "d:\\github\\unreal-beginner-course\\plugins\\dll_test\\source\\thirdparty\\dll_testlibrary\\public\\dll_testlibrary\\examplelibrary.h",
             "d:\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
             "d:\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
-            "d:\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
             "d:\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetsystemlibrary.generated.h",
-            "d:\\unreal_bu\\begineercourse-5.3\\plugins\\dll_test\\intermediate\\build\\win64\\unrealeditor\\inc\\dll_test\\uht\\myactor.generated.h",
-            "d:\\unreal_bu\\begineercourse-5.3\\plugins\\dll_test\\source\\dll_test\\private\\dll_test.cpp",
-            "d:\\unreal_bu\\begineercourse-5.3\\plugins\\dll_test\\source\\dll_test\\public\\dll_test.h",
+            "d:\\github\\unreal-beginner-course\\plugins\\dll_test\\intermediate\\build\\win64\\unrealeditor\\inc\\dll_test\\uht\\myactor.generated.h",
+            "d:\\github\\unreal-beginner-course\\plugins\\dll_test\\source\\dll_test\\private\\dll_test.cpp",
+            "d:\\github\\unreal-beginner-course\\plugins\\dll_test\\source\\dll_test\\public\\dll_test.h",
             "d:\\ue_5.3\\engine\\source\\runtime\\projects\\public\\interfaces\\ipluginmanager.h",
             "d:\\ue_5.3\\engine\\source\\runtime\\projects\\public\\plugindescriptor.h",
             "d:\\ue_5.3\\engine\\source\\runtime\\projects\\public\\custombuildsteps.h",
@@ -24,7 +23,7 @@
             "d:\\ue_5.3\\engine\\source\\runtime\\projects\\public\\moduledescriptor.h",
             "d:\\ue_5.3\\engine\\source\\runtime\\projects\\public\\pluginreferencedescriptor.h",
             "d:\\ue_5.3\\engine\\source\\runtime\\projects\\public\\versescope.h",
-            "d:\\unreal_bu\\begineercourse-5.3\\plugins\\dll_test\\source\\dll_test\\private\\myactor.cpp"
+            "d:\\github\\unreal-beginner-course\\plugins\\dll_test\\source\\dll_test\\private\\myactor.cpp"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

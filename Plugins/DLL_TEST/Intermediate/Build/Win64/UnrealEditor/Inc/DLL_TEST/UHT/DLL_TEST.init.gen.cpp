@@ -17,7 +17,7 @@ void EmptyLinkFunctionForGeneratedCodeDLL_Test_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xA7666525,
+				0x9EDD3FEB,
 				0xA5D9D860,
 				METADATA_PARAMS(0, nullptr)
 			};
@@ -25,5 +25,5 @@ void EmptyLinkFunctionForGeneratedCodeDLL_Test_init() {}
 		}
 		return Z_Registration_Info_UPackage__Script_DLL_Test.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_DLL_Test(Z_Construct_UPackage__Script_DLL_Test, TEXT("/Script/DLL_Test"), Z_Registration_Info_UPackage__Script_DLL_Test, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xA7666525, 0xA5D9D860));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_DLL_Test(Z_Construct_UPackage__Script_DLL_Test, TEXT("/Script/DLL_Test"), Z_Registration_Info_UPackage__Script_DLL_Test, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x9EDD3FEB, 0xA5D9D860));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
