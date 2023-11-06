@@ -1,4 +1,5 @@
 #include <Windows.h>
+#include "Public/DLL_TESTLibrary/ExampleLibrary.h"
 #define EXAMPLELIBRARY_EXPORT __declspec(dllexport)
 
 

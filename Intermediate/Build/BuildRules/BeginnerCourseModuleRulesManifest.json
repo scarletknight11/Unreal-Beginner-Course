@@ -1,0 +1,13 @@
+{
+	"SourceFiles": [
+		"D:\\Github\\Unreal-Beginner-Course\\Source\\BeginnerCourse\\BeginnerCourse.Build.cs",
+		"D:\\Github\\Unreal-Beginner-Course\\Plugins\\DLL_TEST\\Source\\DLL_TEST\\DLL_TEST.Build.cs",
+		"D:\\Github\\Unreal-Beginner-Course\\Plugins\\DLL_TEST\\Source\\ThirdParty\\DLL_TESTLibrary\\DLL_TESTLibrary.Build.cs",
+		"D:\\Github\\Unreal-Beginner-Course\\Plugins\\TestPlugin\\Source\\TestPlugin\\TestPlugin.Build.cs",
+		"D:\\Github\\Unreal-Beginner-Course\\Plugins\\TPL_Plugin\\Source\\TPL_Plugin\\TPL_Plugin.Build.cs",
+		"D:\\Github\\Unreal-Beginner-Course\\Plugins\\TPL_Plugin\\Source\\ThirdParty\\TPL_PluginLibrary\\TPL_PluginLibrary.Build.cs",
+		"D:\\Github\\Unreal-Beginner-Course\\Source\\BeginnerCourse.Target.cs",
+		"D:\\Github\\Unreal-Beginner-Course\\Source\\BeginnerCourseEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.1"
+}

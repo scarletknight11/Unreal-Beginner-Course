@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\BeginnerCourse.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BeginnerCourse.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\BeginnerCourseEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\BeginnerCourse.sln.DotSettings.user" />
+    <None Include="..\..\Construction_VOL1.png" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{BB38096A-B391-30DC-A0D4-4F3EA6B44507}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\DLL_TEST">
+      <UniqueIdentifier>{799C7815-6802-30B6-8408-3965158E42A4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\DLL_TEST\Source">
+      <UniqueIdentifier>{074A8ED8-E2E5-3E11-BDA8-0B368C456F72}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\DLL_TEST\Source\DLL_TEST">
+      <UniqueIdentifier>{B15910DF-3FCA-3213-9AE4-4FDD74EE74AB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\DLL_TEST\Source\DLL_TEST\DLL_TEST.Build.cs">
+      <Filter>Plugins\DLL_TEST\Source\DLL_TEST</Filter>
+    </None>
+    <Filter Include="Plugins\DLL_TEST\Source\DLL_TEST\Private">
+      <UniqueIdentifier>{535A2041-1307-3B59-8165-0A098C6D2FA9}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\DLL_TEST\Source\DLL_TEST\Private\DLL_TEST.cpp">
+      <Filter>Plugins\DLL_TEST\Source\DLL_TEST\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\DLL_TEST\Source\DLL_TEST\Private\MyActor.cpp">
+      <Filter>Plugins\DLL_TEST\Source\DLL_TEST\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\DLL_TEST\Source\DLL_TEST\Public">
+      <UniqueIdentifier>{7B3F8F4D-AF04-3737-B7B8-B9EE85317B66}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\DLL_TEST\Source\DLL_TEST\Public\DLL_TEST.h">
+      <Filter>Plugins\DLL_TEST\Source\DLL_TEST\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\DLL_TEST\Source\DLL_TEST\Public\MyActor.h">
+      <Filter>Plugins\DLL_TEST\Source\DLL_TEST\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\DLL_TEST\DLL_TEST.uplugin">
+      <Filter>Plugins\DLL_TEST</Filter>
+    </None>
+    <Filter Include="Plugins\DLL_TEST\Resources">
+      <UniqueIdentifier>{B8E2245A-755E-3288-893A-B28006BEFCBA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\DLL_TEST\Resources\Icon128.png">
+      <Filter>Plugins\DLL_TEST\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\TestPlugin">
+      <UniqueIdentifier>{047E4609-5DBD-3E7E-BB31-A490EBF31EFA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\TestPlugin\TestPlugin.uplugin">
+      <Filter>Plugins\TestPlugin</Filter>
+    </None>
+    <Filter Include="Plugins\TestPlugin\Config">
+      <UniqueIdentifier>{5E56DB83-4521-3D1F-A523-76053712D433}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\TestPlugin\Config\FilterPlugin.ini">
+      <Filter>Plugins\TestPlugin\Config</Filter>
+    </None>
+    <Filter Include="Plugins\TestPlugin\Resources">
+      <UniqueIdentifier>{4FF7674D-E147-32B5-8612-F7572BC967CF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\TestPlugin\Resources\Icon128.png">
+      <Filter>Plugins\TestPlugin\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\TPL_Plugin">
+      <UniqueIdentifier>{2F211759-C4BE-3E92-B643-763A70CB1203}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\TPL_Plugin\TPL_Plugin.uplugin">
+      <Filter>Plugins\TPL_Plugin</Filter>
+    </None>
+    <Filter Include="Plugins\TPL_Plugin\Config">
+      <UniqueIdentifier>{6E402492-26EB-3A18-879A-39F5661EF4DE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\TPL_Plugin\Config\FilterPlugin.ini">
+      <Filter>Plugins\TPL_Plugin\Config</Filter>
+    </None>
+    <Filter Include="Plugins\TPL_Plugin\Resources">
+      <UniqueIdentifier>{245CD1E1-6FDB-3BAE-A853-748864708B8E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\TPL_Plugin\Resources\Icon128.png">
+      <Filter>Plugins\TPL_Plugin\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\DLL_TEST\Source\ThirdParty">
+      <UniqueIdentifier>{99A56DA3-D05B-38A8-AAB6-4FA08AFD321A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary">
+      <UniqueIdentifier>{E3A79DC0-A8D7-3D14-9142-F5F9CDEF6D6F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary\DLL_TESTLibrary.Build.cs">
+      <Filter>Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary</Filter>
+    </None>
+    <None Include="..\..\Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary\DLL_TESTLibrary.tps">
+      <Filter>Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary</Filter>
+    </None>
+    <ClCompile Include="..\..\Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary\ExampleLibrary.cpp">
+      <Filter>Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary\ExampleLibrary">
+      <UniqueIdentifier>{9D9F9B24-B23F-3272-933A-7461281F6603}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary\ExampleLibrary\ExampleLibrary.xcodeproj">
+      <UniqueIdentifier>{D122567D-0587-3E06-90F2-587229F19B25}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary\ExampleLibrary\ExampleLibrary.xcodeproj\project.pbxproj">
+      <Filter>Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary\ExampleLibrary\ExampleLibrary.xcodeproj</Filter>
+    </None>
+    <Filter Include="Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary\ExampleLibrary.xcworkspace">
+      <UniqueIdentifier>{5B83C3E0-D312-3F27-863F-8BFE5299C58D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary\ExampleLibrary.xcworkspace\contents.xcworkspacedata">
+      <Filter>Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary\ExampleLibrary.xcworkspace</Filter>
+    </None>
+    <Filter Include="Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary\Mac">
+      <UniqueIdentifier>{BD9DB4B7-9C40-35AF-AC51-CB1D02328267}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary\Mac\Release">
+      <UniqueIdentifier>{1834EF1A-3AC9-3630-9205-4BDF2E58CB24}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary\Mac\Release\libExampleLibrary.dylib">
+      <Filter>Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary\Mac\Release</Filter>
+    </None>
+    <Filter Include="Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary\Public">
+      <UniqueIdentifier>{2C55E57B-4636-3FB6-8E06-96D3F590F20E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary\Public\DLL_TESTLibrary">
+      <UniqueIdentifier>{30F0F5FB-B4F8-34B0-80DA-760AA0AC3D63}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary\Public\DLL_TESTLibrary\ExampleLibrary.h">
+      <Filter>Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary\Public\DLL_TESTLibrary</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary\x64">
+      <UniqueIdentifier>{25F64D32-81F5-37E4-B973-A2FB5DFDA7D3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary\x64\Release">
+      <UniqueIdentifier>{D52C7365-0C7C-3EF5-92BC-51DAD898F85E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary\x64\Release\ExampleLibrary.dll">
+      <Filter>Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary\x64\Release</Filter>
+    </None>
+    <None Include="..\..\Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary\x64\Release\ExampleLibrary.lib">
+      <Filter>Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary\x64\Release</Filter>
+    </None>
+    <Filter Include="Plugins\TestPlugin\Source">
+      <UniqueIdentifier>{B2F0FB9A-FB4A-3F9F-80C8-EAE0B0F5A5DE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\TestPlugin\Source\TestPlugin">
+      <UniqueIdentifier>{E951D2B0-8443-3434-80FC-B9C7B74EFCD5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\TestPlugin\Source\TestPlugin\TestPlugin.Build.cs">
+      <Filter>Plugins\TestPlugin\Source\TestPlugin</Filter>
+    </None>
+    <Filter Include="Plugins\TestPlugin\Source\TestPlugin\Private">
+      <UniqueIdentifier>{1FAF936E-DAF7-3A74-AB47-9CEEABC87DCE}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\TestPlugin\Source\TestPlugin\Private\OurPluginInterface.cpp">
+      <Filter>Plugins\TestPlugin\Source\TestPlugin\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\TestPlugin\Source\TestPlugin\Private\TestPlugin.cpp">
+      <Filter>Plugins\TestPlugin\Source\TestPlugin\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\TestPlugin\Source\TestPlugin\Public">
+      <UniqueIdentifier>{2E2398A7-2A91-3732-BD7E-680AB97F617A}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TestPlugin\Source\TestPlugin\Public\OurPluginInterface.h">
+      <Filter>Plugins\TestPlugin\Source\TestPlugin\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TestPlugin\Source\TestPlugin\Public\TestPlugin.h">
+      <Filter>Plugins\TestPlugin\Source\TestPlugin\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TPL_Plugin\Source">
+      <UniqueIdentifier>{0ABB0052-913C-389B-B807-00426AB368C5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\TPL_Plugin\Source\TPL_Plugin">
+      <UniqueIdentifier>{EB1A4124-F8E2-3496-B4B6-A547C471AE83}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\TPL_Plugin\Source\TPL_Plugin\TPL_Plugin.Build.cs">
+      <Filter>Plugins\TPL_Plugin\Source\TPL_Plugin</Filter>
+    </None>
+    <Filter Include="Plugins\TPL_Plugin\Source\TPL_Plugin\Private">
+      <UniqueIdentifier>{A4E086A2-C2AE-331F-9431-D33E8BA4FFE9}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\TPL_Plugin\Source\TPL_Plugin\Private\TPL_Plugin.cpp">
+      <Filter>Plugins\TPL_Plugin\Source\TPL_Plugin\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\TPL_Plugin\Source\TPL_Plugin\Private\WrapperObject.cpp">
+      <Filter>Plugins\TPL_Plugin\Source\TPL_Plugin\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\TPL_Plugin\Source\TPL_Plugin\Public">
+      <UniqueIdentifier>{7BCB3FAE-12DC-32C4-908F-19C4510379E8}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TPL_Plugin\Source\TPL_Plugin\Public\TPL_Plugin.h">
+      <Filter>Plugins\TPL_Plugin\Source\TPL_Plugin\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TPL_Plugin\Source\TPL_Plugin\Public\WrapperObject.h">
+      <Filter>Plugins\TPL_Plugin\Source\TPL_Plugin\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TPL_Plugin\Source\ThirdParty">
+      <UniqueIdentifier>{4CF93A77-A1AF-38B9-A8CA-B35EB05B045A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary">
+      <UniqueIdentifier>{CF709F1D-0CE0-34C7-B9DD-16446E63A7A5}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\framework.h">
+      <Filter>Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\pch.cpp">
+      <Filter>Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\pch.h">
+      <Filter>Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\TestClass.cpp">
+      <Filter>Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\TestClass.h">
+      <Filter>Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\TestThirdPartyLibrary.cpp">
+      <Filter>Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary</Filter>
+    </ClCompile>
+    <None Include="..\..\Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\TPL_PluginLibrary.Build.cs">
+      <Filter>Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary</Filter>
+    </None>
+    <None Include="..\..\Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\TPL_PluginLibrary.tps">
+      <Filter>Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary</Filter>
+    </None>
+    <Filter Include="Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\.idea">
+      <UniqueIdentifier>{2313530F-B2BA-3740-AFB4-7A51067AB85C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\.idea\.idea.TestThirdPartyLibrary">
+      <UniqueIdentifier>{37E94728-56E0-30D1-B72D-F2CB24FCDE1D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\.idea\.idea.TestThirdPartyLibrary\.idea">
+      <UniqueIdentifier>{504D7C12-58C3-342D-8CD8-21C8AB17F087}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\.idea\.idea.TestThirdPartyLibrary\.idea\.gitignore">
+      <Filter>Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\.idea\.idea.TestThirdPartyLibrary\.idea</Filter>
+    </None>
+    <None Include="..\..\Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\.idea\.idea.TestThirdPartyLibrary\.idea\.name">
+      <Filter>Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\.idea\.idea.TestThirdPartyLibrary\.idea</Filter>
+    </None>
+    <None Include="..\..\Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\.idea\.idea.TestThirdPartyLibrary\.idea\encodings.xml">
+      <Filter>Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\.idea\.idea.TestThirdPartyLibrary\.idea</Filter>
+    </None>
+    <None Include="..\..\Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\.idea\.idea.TestThirdPartyLibrary\.idea\indexLayout.xml">
+      <Filter>Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\.idea\.idea.TestThirdPartyLibrary\.idea</Filter>
+    </None>
+    <None Include="..\..\Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\.idea\.idea.TestThirdPartyLibrary\.idea\projectSettingsUpdater.xml">
+      <Filter>Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\.idea\.idea.TestThirdPartyLibrary\.idea</Filter>
+    </None>
+    <None Include="..\..\Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\.idea\.idea.TestThirdPartyLibrary\.idea\workspace.xml">
+      <Filter>Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\.idea\.idea.TestThirdPartyLibrary\.idea</Filter>
+    </None>
+    <Filter Include="Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\.vs">
+      <UniqueIdentifier>{99D04A15-1B14-32D3-AF12-8A8C80DB672D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\.vs\TestThirdPartyLibrary">
+      <UniqueIdentifier>{7499907F-3862-3677-B714-101C7FBCA720}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\.vs\TestThirdPartyLibrary\FileContentIndex">
+      <UniqueIdentifier>{E23DBBD4-EC4B-386A-8B71-5F9B058C0192}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\.vs\TestThirdPartyLibrary\FileContentIndex\a9f13dd8-6fda-4f49-bd0d-2674b8b120a2.vsidx">
+      <Filter>Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\.vs\TestThirdPartyLibrary\FileContentIndex</Filter>
+    </None>
+    <None Include="..\..\Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\.vs\TestThirdPartyLibrary\FileContentIndex\e0b5db76-b34c-4204-89c7-72defdd3d253.vsidx">
+      <Filter>Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\.vs\TestThirdPartyLibrary\FileContentIndex</Filter>
+    </None>
+    <None Include="..\..\Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\.vs\TestThirdPartyLibrary\FileContentIndex\f5c26152-ae08-4987-81b8-7e51d7d1efb9.vsidx">
+      <Filter>Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\.vs\TestThirdPartyLibrary\FileContentIndex</Filter>
+    </None>
+    <Filter Include="Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\.vs\TestThirdPartyLibrary\v17">
+      <UniqueIdentifier>{6E22D4C3-44A7-3ED3-9630-192E33841916}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\.vs\TestThirdPartyLibrary\v17\Browse.VC.db">
+      <Filter>Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\.vs\TestThirdPartyLibrary\v17</Filter>
+    </None>
+    <Filter Include="Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\.vs\TestThirdPartyLibrary\v17\ipch">
+      <UniqueIdentifier>{66855BDE-87EB-3395-B812-162B5F5B59C6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\.vs\TestThirdPartyLibrary\v17\ipch\d3fc3de1f6c91300.ipch">
+      <Filter>Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\.vs\TestThirdPartyLibrary\v17\ipch</Filter>
+    </None>
+    <Filter Include="Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\x64">
+      <UniqueIdentifier>{23991D01-6132-35F4-96DF-128F33902363}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\x64\Release">
+      <UniqueIdentifier>{89E3E61E-18A3-3D77-AA3B-81F17B2AA549}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\x64\Release\pch.obj">
+      <Filter>Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\x64\Release</Filter>
+    </None>
+    <None Include="..\..\Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\x64\Release\TestClass.obj">
+      <Filter>Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\x64\Release</Filter>
+    </None>
+    <None Include="..\..\Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\x64\Release\TestThirdPartyLibrary.lib">
+      <Filter>Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\x64\Release</Filter>
+    </None>
+    <None Include="..\..\Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\x64\Release\TestThirdPartyLibrary.lib.recipe">
+      <Filter>Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\x64\Release</Filter>
+    </None>
+    <None Include="..\..\Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\x64\Release\TestThirdPartyLibrary.log">
+      <Filter>Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\x64\Release</Filter>
+    </None>
+    <None Include="..\..\Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\x64\Release\TestThirdPartyLibrary.obj">
+      <Filter>Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\x64\Release</Filter>
+    </None>
+    <None Include="..\..\Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\x64\Release\TestThirdPartyLibrary.pch">
+      <Filter>Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\x64\Release</Filter>
+    </None>
+    <None Include="..\..\Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\x64\Release\TestThirdPartyLibrary.pdb">
+      <Filter>Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\x64\Release</Filter>
+    </None>
+    <None Include="..\..\Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\x64\Release\TestThirdPartyLibrary.vcxproj.FileListAbsolute.txt">
+      <Filter>Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\x64\Release</Filter>
+    </None>
+    <Filter Include="Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\x64\Release\TestThir.2731470c.tlog">
+      <UniqueIdentifier>{579137E5-7724-34F9-A5B0-FC2CCE3DB839}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\x64\Release\TestThir.2731470c.tlog\CL.command.1.tlog">
+      <Filter>Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\x64\Release\TestThir.2731470c.tlog</Filter>
+    </None>
+    <None Include="..\..\Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\x64\Release\TestThir.2731470c.tlog\Cl.items.tlog">
+      <Filter>Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\x64\Release\TestThir.2731470c.tlog</Filter>
+    </None>
+    <None Include="..\..\Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\x64\Release\TestThir.2731470c.tlog\CL.read.1.tlog">
+      <Filter>Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\x64\Release\TestThir.2731470c.tlog</Filter>
+    </None>
+    <None Include="..\..\Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\x64\Release\TestThir.2731470c.tlog\CL.write.1.tlog">
+      <Filter>Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\x64\Release\TestThir.2731470c.tlog</Filter>
+    </None>
+    <None Include="..\..\Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\x64\Release\TestThir.2731470c.tlog\Lib-link.read.1.tlog">
+      <Filter>Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\x64\Release\TestThir.2731470c.tlog</Filter>
+    </None>
+    <None Include="..\..\Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\x64\Release\TestThir.2731470c.tlog\Lib-link.write.1.tlog">
+      <Filter>Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\x64\Release\TestThir.2731470c.tlog</Filter>
+    </None>
+    <None Include="..\..\Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\x64\Release\TestThir.2731470c.tlog\Lib.command.1.tlog">
+      <Filter>Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\x64\Release\TestThir.2731470c.tlog</Filter>
+    </None>
+    <None Include="..\..\Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\x64\Release\TestThir.2731470c.tlog\TestThirdPartyLibrary.lastbuildstate">
+      <Filter>Plugins\TPL_Plugin\Source\ThirdParty\TPL_PluginLibrary\x64\Release\TestThir.2731470c.tlog</Filter>
+    </None>
+    <Filter Include="Source\BeginnerCourse">
+      <UniqueIdentifier>{5555634B-172A-3925-8BCA-0605922E4792}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BeginnerCourse\BeginnerCourse.Build.cs">
+      <Filter>Source\BeginnerCourse</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\BeginnerCourse\BeginnerCourse.cpp">
+      <Filter>Source\BeginnerCourse</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BeginnerCourse\BeginnerCourse.h">
+      <Filter>Source\BeginnerCourse</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BeginnerCourse\BeginnerCourseGameModeBase.cpp">
+      <Filter>Source\BeginnerCourse</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BeginnerCourse\BeginnerCourseGameModeBase.h">
+      <Filter>Source\BeginnerCourse</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BeginnerCourse\MyCharacter.cpp">
+      <Filter>Source\BeginnerCourse</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BeginnerCourse\MyCharacter.h">
+      <Filter>Source\BeginnerCourse</Filter>
+    </ClInclude>
+    <Filter Include="Source\BeginnerCourse\Private">
+      <UniqueIdentifier>{D50A1E3C-DA45-3B50-977F-EB7F1BC2DA4D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\BeginnerCourse\Private\CPP_Actor.cpp">
+      <Filter>Source\BeginnerCourse\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\BeginnerCourse\Private\CPP_Character.cpp">
+      <Filter>Source\BeginnerCourse\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\BeginnerCourse\Private\CPP_InteractionActor.cpp">
+      <Filter>Source\BeginnerCourse\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\BeginnerCourse\Private\CPP_Object.cpp">
+      <Filter>Source\BeginnerCourse\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\BeginnerCourse\Private\CPP_Pickup.cpp">
+      <Filter>Source\BeginnerCourse\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\BeginnerCourse\Private\MyInterface.cpp">
+      <Filter>Source\BeginnerCourse\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\BeginnerCourse\Public">
+      <UniqueIdentifier>{F2C5C20C-DD06-31C5-BE32-7A5127CA17E3}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\BeginnerCourse\Public\CPP_Actor.h">
+      <Filter>Source\BeginnerCourse\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\BeginnerCourse\Public\CPP_Character.h">
+      <Filter>Source\BeginnerCourse\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\BeginnerCourse\Public\CPP_InteractionActor.h">
+      <Filter>Source\BeginnerCourse\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\BeginnerCourse\Public\CPP_Object.h">
+      <Filter>Source\BeginnerCourse\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\BeginnerCourse\Public\CPP_Pickup.h">
+      <Filter>Source\BeginnerCourse\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\BeginnerCourse\Public\MyInterface.h">
+      <Filter>Source\BeginnerCourse\Public</Filter>
+    </ClInclude>
+    <Filter Include="Source\BeginnerCourse\TP_ThirdPerson">
+      <UniqueIdentifier>{EFC351DE-4027-3E75-A2F4-6A98354B9580}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\BeginnerCourse\TP_ThirdPerson\TP_ThirdPerson.h">
+      <Filter>Source\BeginnerCourse\TP_ThirdPerson</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BeginnerCourse\TP_ThirdPerson\TP_ThirdPersonCharacter.cpp">
+      <Filter>Source\BeginnerCourse\TP_ThirdPerson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BeginnerCourse\TP_ThirdPerson\TP_ThirdPersonCharacter.h">
+      <Filter>Source\BeginnerCourse\TP_ThirdPerson</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BeginnerCourse\TP_ThirdPerson\TP_ThirdPersonGameMode.cpp">
+      <Filter>Source\BeginnerCourse\TP_ThirdPerson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BeginnerCourse\TP_ThirdPerson\TP_ThirdPersonGameMode.h">
+      <Filter>Source\BeginnerCourse\TP_ThirdPerson</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
