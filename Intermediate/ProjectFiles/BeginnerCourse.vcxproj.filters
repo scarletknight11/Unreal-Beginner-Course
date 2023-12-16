@@ -65,6 +65,12 @@
     <None Include="..\..\Plugins\DLL_TEST\DLL_TEST.uplugin">
       <Filter>Plugins\DLL_TEST</Filter>
     </None>
+    <Filter Include="Plugins\DLL_TEST\Config">
+      <UniqueIdentifier>{D468D039-724E-39F3-9E77-471F8BD93EB4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\DLL_TEST\Config\FilterPlugin.ini">
+      <Filter>Plugins\DLL_TEST\Config</Filter>
+    </None>
     <Filter Include="Plugins\DLL_TEST\Resources">
       <UniqueIdentifier>{B8E2245A-755E-3288-893A-B28006BEFCBA}</UniqueIdentifier>
     </Filter>
@@ -122,6 +128,36 @@
     <ClCompile Include="..\..\Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary\ExampleLibrary.cpp">
       <Filter>Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary</Filter>
     </ClCompile>
+    <Filter Include="Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary\.idea">
+      <UniqueIdentifier>{E8E75602-B3DD-33F6-9047-2B399999D1FC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary\.idea\.idea.ExampleLibrary">
+      <UniqueIdentifier>{2768053B-DD37-38D3-8797-AE4B59D63061}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary\.idea\.idea.ExampleLibrary\.idea">
+      <UniqueIdentifier>{0481BEDD-4372-3F23-B165-A0213A4C6F6E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary\.idea\.idea.ExampleLibrary\.idea\.gitignore">
+      <Filter>Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary\.idea\.idea.ExampleLibrary\.idea</Filter>
+    </None>
+    <None Include="..\..\Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary\.idea\.idea.ExampleLibrary\.idea\.name">
+      <Filter>Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary\.idea\.idea.ExampleLibrary\.idea</Filter>
+    </None>
+    <None Include="..\..\Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary\.idea\.idea.ExampleLibrary\.idea\encodings.xml">
+      <Filter>Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary\.idea\.idea.ExampleLibrary\.idea</Filter>
+    </None>
+    <None Include="..\..\Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary\.idea\.idea.ExampleLibrary\.idea\indexLayout.xml">
+      <Filter>Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary\.idea\.idea.ExampleLibrary\.idea</Filter>
+    </None>
+    <None Include="..\..\Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary\.idea\.idea.ExampleLibrary\.idea\projectSettingsUpdater.xml">
+      <Filter>Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary\.idea\.idea.ExampleLibrary\.idea</Filter>
+    </None>
+    <None Include="..\..\Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary\.idea\.idea.ExampleLibrary\.idea\vcs.xml">
+      <Filter>Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary\.idea\.idea.ExampleLibrary\.idea</Filter>
+    </None>
+    <None Include="..\..\Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary\.idea\.idea.ExampleLibrary\.idea\workspace.xml">
+      <Filter>Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary\.idea\.idea.ExampleLibrary\.idea</Filter>
+    </None>
     <Filter Include="Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary\ExampleLibrary">
       <UniqueIdentifier>{9D9F9B24-B23F-3272-933A-7461281F6603}</UniqueIdentifier>
     </Filter>
@@ -166,6 +202,21 @@
     </None>
     <None Include="..\..\Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary\x64\Release\ExampleLibrary.lib">
       <Filter>Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary\x64\Release</Filter>
+    </None>
+    <None Include="..\..\Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary\x64\Release\vc143.pdb">
+      <Filter>Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary\x64\Release</Filter>
+    </None>
+    <Filter Include="Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary\x64\Release\ExampleLibrary.tlog">
+      <UniqueIdentifier>{699BCDA6-EAF9-3425-B79A-08B7B339B98A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary\x64\Release\ExampleLibrary.tlog\CL.command.1.tlog">
+      <Filter>Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary\x64\Release\ExampleLibrary.tlog</Filter>
+    </None>
+    <None Include="..\..\Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary\x64\Release\ExampleLibrary.tlog\ExampleLibrary.lastbuildstate">
+      <Filter>Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary\x64\Release\ExampleLibrary.tlog</Filter>
+    </None>
+    <None Include="..\..\Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary\x64\Release\ExampleLibrary.tlog\unsuccessfulbuild">
+      <Filter>Plugins\DLL_TEST\Source\ThirdParty\DLL_TESTLibrary\x64\Release\ExampleLibrary.tlog</Filter>
     </None>
     <Filter Include="Plugins\TestPlugin\Source">
       <UniqueIdentifier>{B2F0FB9A-FB4A-3F9F-80C8-EAE0B0F5A5DE}</UniqueIdentifier>
